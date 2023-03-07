@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: one
+  shopping_basket_id: one
+  order_date: 2023-03-07
+  payment_method: MyString
+
+two:
+  customer_id: two
+  shopping_basket_id: two
+  order_date: 2023-03-07
+  payment_method: MyString
